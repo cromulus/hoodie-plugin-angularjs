@@ -2,6 +2,7 @@
   "name": "hoodie-plugin-angularjs",
   "description": "Hoodie plugin to connect to angularJS",
   "version": "0.1.1",
+  "main": "./hoodie.angluarjs.min.js",
   "scripts": {
     "test": "gulp test"
   },
